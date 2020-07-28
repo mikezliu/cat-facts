@@ -1,3 +1,3 @@
 # cat-facts
 
-![Cat facts](/assets/sample.png?raw=true&s=400)
+![Cat facts](/assets/sample.png?raw=true&s=200)
