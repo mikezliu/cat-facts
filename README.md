@@ -1,3 +1,3 @@
 # cat-facts
 
-<img src="/assets/sample.png" width="486" height="571">
+![Cat facts](/assets/sample.png?raw=true)
