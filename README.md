@@ -14,6 +14,15 @@ Cat facts are obtained from sources with freely redistributable licenses and rev
 
 No
 
+#### How can the library be used?
+
+When the library is included in your application, you can trigger a cat fact to be shown at any time via a method call. The default configuration will show a random cat fact in a modal dismissible window.
+
+#### What are some use cases?
+
+- For user retention and engagement, such as during loading screens
+- For punishment, such as if the user is caught cheating or using an ad blocker
+
 #### Can I contribute cat facts?
 
 Yes, feel free to make a pull request or fork the library
