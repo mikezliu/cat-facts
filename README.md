@@ -21,7 +21,7 @@ When the library is included in your application, you can trigger a cat fact to 
 #### What are some use cases?
 
 - For user retention and engagement, such as during loading screens
-- For punishment, such as if the user is caught cheating or using an ad blocker
+- For punishment, such as if the user is caught cheating
 
 #### Can I contribute cat facts?
 
