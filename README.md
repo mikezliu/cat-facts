@@ -26,7 +26,3 @@ When the library is included in your application, you can trigger a cat fact to 
 #### Can I contribute to cat facts?
 
 Yes, feel free to make a pull request or fork the library
-
-#### What platforms are supported?
-
-Kotlin Multiplatform is used. Supported platforms include Android, iOS, Web (WebAssembly), JavaScript, and more.
