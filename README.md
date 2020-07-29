@@ -16,7 +16,7 @@ No
 
 #### How can the library be used?
 
-When the library is included in your application, you can trigger a cat fact to be shown at any time via a method call. The default configuration will show a random cat fact in a modal dismissible window.
+When the library is included in your application, you can trigger a cat fact to be shown at any time via a method call. The default configuration will show a random cat fact in a dismissible window.
 
 #### What are some use cases?
 
