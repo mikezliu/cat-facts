@@ -23,7 +23,7 @@ When the library is included in your application, you can trigger a cat fact to 
 - For user retention and engagement, such as during loading screens
 - As a deterrent, such as if the user is caught cheating
 
-#### Can I contribute cat facts?
+#### Can I contribute to cat facts?
 
 Yes, feel free to make a pull request or fork the library
 
