@@ -10,10 +10,6 @@ A library for displaying facts about cats. Can be used in a mobile application (
 
 Cat facts are obtained from sources with freely redistributable licenses and reviewed for quality
 
-#### Can I use this library in my commercial product?
-
-Yes, do whatever you want with it
-
 #### Does the library make any network calls?
 
 No
